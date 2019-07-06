@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Amotomated Tests">
+	<test name="Smoke Tests">
+		<packages>
+			<package name="testngFiles" />
+			<package name="Second" />
+		</packages>
+	</test>
+</suite>

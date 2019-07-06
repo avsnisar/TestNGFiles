@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="parallelized Amotomated Tests" parallel="classes" thread-count="1">
+	<test name="Smoke Tests">
+		<packages>
+			<package name="testngFilescopy" />
+		</packages>
+	</test>
+</suite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Amotomated Tests">
+	<test name="Smoke Tests">
+		<groups>
+			<run>
+				<include name="Priority2" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Second.DependencyAnnotations" />
+			<class name="Second.Annotations" />
+		</classes>
+	</test>
+</suite>
