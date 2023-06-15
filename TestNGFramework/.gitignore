@@ -2,3 +2,5 @@
 /test-output/
 /testngFiles/
 /.settings/
+.classpath
+.project
